@@ -1,0 +1,7 @@
+# Lupa
+
+```
+public function index(){};
+```
+
+---
